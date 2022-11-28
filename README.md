@@ -1,7 +1,7 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="150"/>
 </div>
-<div id="badges">
+<div id="badges" align="center" display="flex">
   <a href="https://vk.com/filipcevaa">
     <img src="https://img.shields.io/badge/VKontakte-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="VKontakte Badge"/>
   </a>
