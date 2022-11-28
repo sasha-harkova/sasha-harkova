@@ -1,4 +1,8 @@
-<h1 align="center">Hi there, I'm Sasha<br /> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<h3 align="center">Frontend developer from Russia <img height="15" https://avatanplus.com/files/resources/mid/595b6216bc22415d0cf728f3.png></h3>
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/k0ijJhqrUP4T2EvmJ1/giphy.gif" width="100"/>
+</div>
+
+<h1 align="center">Всем привет! <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h3 align="center">Меня зовут Саша и я начинающий фронтенд-разработчик.</h3>
+
 
