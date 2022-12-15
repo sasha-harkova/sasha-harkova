@@ -33,4 +33,6 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sasha-harkova)](https://github.com/anuraghazra/github-readme-stats)
 
+[![codewars](https://www.codewars.com/users/sasha-harkova/badges/large)](https://www.codewars.com/users/sasha-harkova)
+
 
